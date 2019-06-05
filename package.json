@@ -1,5 +1,5 @@
 {
-  "name": "json-rpc2",
+  "name": "json-rpc3",
   "version": "0.1.0",
   "description": "Javascript JSON-RPC wrapper",
   "main": "index.js",
