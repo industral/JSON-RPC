@@ -1,8 +1,11 @@
 {
   "name": "json-rpc3",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Javascript JSON-RPC wrapper",
-  "main": "index.js",
+  "main": "dist/esm/index.js",
+  "type": "module",
+  "browser": "dist/browser/main.js",
+  "types": "dist/esm/index.d.ts",
   "engines": {
     "node": ">=10.0.0",
     "npm": ">=5.6.0"
