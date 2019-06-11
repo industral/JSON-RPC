@@ -56,5 +56,7 @@ module.exports = {
 
   // Concurrency level
   // how many browser should be started simultaneous
-  concurrency: Infinity
+  concurrency: Infinity,
+
+  webpack: {}
 };
